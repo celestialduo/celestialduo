@@ -1,5 +1,1 @@
-*go where nobody . . .*
-
-══════════════════════
-
-*is gonna* **JUDGE** *you*
+*this readme will probably be never filled*
